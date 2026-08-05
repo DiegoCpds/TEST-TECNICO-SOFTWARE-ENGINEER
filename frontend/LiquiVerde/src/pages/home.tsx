@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import ProductList from '../components/productList'
+import ProductList from '../components/ProductList'
 import type { Product } from '../types/Product'
 import { getOptimalProducts, getProducts } from '../api/products.ts'
 

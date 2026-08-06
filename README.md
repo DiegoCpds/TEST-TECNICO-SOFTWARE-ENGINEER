@@ -8,7 +8,7 @@ El proyecto implementa un sistema de gestión de productos utilizando una arquit
 
 ## Descripción
 
-Retail Store permite analizar productos y tomar decisiones de compra sostenibles, optimizando presupuesto e impacto ambiental/social
+LiquiVerde permite analizar productos y tomar decisiones de compra sostenibles, optimizando presupuesto e impacto ambiental/social
 
 La aplicación cuenta con:
 

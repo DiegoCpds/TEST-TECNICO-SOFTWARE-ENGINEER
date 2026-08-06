@@ -1,4 +1,4 @@
-# 🛒 Retail Store
+# LiquiVerde
 
 Aplicación web desarrollada como prueba técnica para **Software Engineer**.
 

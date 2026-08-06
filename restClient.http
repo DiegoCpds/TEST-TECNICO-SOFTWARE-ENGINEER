@@ -1,0 +1,52 @@
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/api/products
+Content-Type: application/json
+
+{
+    "id": 16,
+    "name": "Chocolate 100g",
+    "price": 1890,
+    "carbonImpact": 60,
+    "socialImpact": 62,
+    "barcode": "7804900000028",
+    "brand": "Nestle",
+    "category": "Snacks",
+    "stock": 10
+  }
+
+###
+GET http://localhost:3000/api/products
+
+
+###
+
+PUT http://localhost:3000/api/products/6a72b2830fb1592408e37c15
+Content-Type: application/json
+
+{
+    "name": "Chocolate 100g",
+    "price": 1790,
+    "carbonImpact": 60,
+    "socialImpact": 62,
+    "barcode": "7804900000027",
+    "brand": "Nestle",
+    "category": "Snacks",
+    "stock": 15
+  }
+
+###
+
+DELETE http://localhost:3000/api/products/6a72b194f740bd493766195f
+
+###
+
+POST http://localhost:3000/api/products/optimal
+Content-Type: application/json
+
+{
+  "budget": 30000
+}
+

@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "6a723537477c2064a89727dc"
+  },
+  "id": 1,
+  "name": "Leche Entera 1L",
+  "price": 1290,
+  "carbonImpact": 38,
+  "socialImpact": 25,
+  "barcode": "7804900000012",
+  "brand": "Colun",
+  "category": "Lacteos",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727dd"
+  },
+  "id": 2,
+  "name": "Yogurt Natural 1Kg",
+  "price": 2790,
+  "carbonImpact": 35,
+  "socialImpact": 20,
+  "barcode": "7804900000013",
+  "brand": "Colun",
+  "category": "Lacteos",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727de"
+  },
+  "id": 3,
+  "name": "Arroz Grado 1 1Kg",
+  "price": 1690,
+  "carbonImpact": 18,
+  "socialImpact": 30,
+  "barcode": "7804900000014",
+  "brand": "Miraflores",
+  "category": "Granos",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727df"
+  },
+  "id": 4,
+  "name": "Fideos Espagueti 400g",
+  "price": 990,
+  "carbonImpact": 16,
+  "socialImpact": 28,
+  "barcode": "7804900000015",
+  "brand": "Carozzi",
+  "category": "Pastas",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e0"
+  },
+  "id": 5,
+  "name": "Pan Molde Integral",
+  "price": 2490,
+  "carbonImpact": 20,
+  "socialImpact": 22,
+  "barcode": "7804900000016",
+  "brand": "Ideal",
+  "category": "Panaderia",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e1"
+  },
+  "id": 6,
+  "name": "Pechuga de Pollo 1Kg",
+  "price": 6490,
+  "carbonImpact": 65,
+  "socialImpact": 35,
+  "barcode": "7804900000017",
+  "brand": "Super Pollo",
+  "category": "Carnes",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e2"
+  },
+  "id": 7,
+  "name": "Carne Molida Vacuno 500g",
+  "price": 5990,
+  "carbonImpact": 90,
+  "socialImpact": 42,
+  "barcode": "7804900000018",
+  "brand": "Agrosuper",
+  "category": "Carnes",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e3"
+  },
+  "id": 8,
+  "name": "Manzana Fuji 1Kg",
+  "price": 1990,
+  "carbonImpact": 10,
+  "socialImpact": 18,
+  "barcode": "7804900000019",
+  "brand": "Huertos del Sur",
+  "category": "Frutas",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e4"
+  },
+  "id": 9,
+  "name": "Platano 1Kg",
+  "price": 1890,
+  "carbonImpact": 30,
+  "socialImpact": 32,
+  "barcode": "7804900000020",
+  "brand": "Premium Fruit",
+  "category": "Frutas",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e5"
+  },
+  "id": 10,
+  "name": "Tomate 1Kg",
+  "price": 1690,
+  "carbonImpact": 12,
+  "socialImpact": 15,
+  "barcode": "7804900000021",
+  "brand": "Campo Fresco",
+  "category": "Verduras",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e6"
+  },
+  "id": 11,
+  "name": "Aceite Maravilla 1L",
+  "price": 2890,
+  "carbonImpact": 28,
+  "socialImpact": 40,
+  "barcode": "7804900000022",
+  "brand": "Chef",
+  "category": "Despensa",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e7"
+  },
+  "id": 12,
+  "name": "Atun en Agua 170g",
+  "price": 1690,
+  "carbonImpact": 48,
+  "socialImpact": 38,
+  "barcode": "7804900000023",
+  "brand": "San Jose",
+  "category": "Conservas",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e8"
+  },
+  "id": 13,
+  "name": "Cafe Instantaneo 170g",
+  "price": 5290,
+  "carbonImpact": 52,
+  "socialImpact": 55,
+  "barcode": "7804900000024",
+  "brand": "Nescafe",
+  "category": "Bebidas",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727e9"
+  },
+  "id": 14,
+  "name": "Bebida Cola 1.5L",
+  "price": 1990,
+  "carbonImpact": 42,
+  "socialImpact": 48,
+  "barcode": "7804900000025",
+  "brand": "Coca-Cola",
+  "category": "Bebidas",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6a723537477c2064a89727ea"
+  },
+  "id": 15,
+  "name": "Chocolate 100g",
+  "price": 2290,
+  "carbonImpact": 60,
+  "socialImpact": 62,
+  "barcode": "7804900000026",
+  "brand": "Costa",
+  "category": "Snacks",
+  "stock": 10
+}]

@@ -281,6 +281,17 @@ Se trata de la implementación del algoritmo de Mochila o knapsack, para optimiz
 
 ---
 # Uso de IA
+Durante el desarrollo del proyecto se utilizó IA como herramienta de apoyo técnico y consulta.
+Sus principales usos fueron:
+- Validación de la interpretación del problema y análisis de los requerimientos de la prueba técnica.
+- Discusión de posibles enfoques de solución y apoyo en la elección de estrategias de implementación.
+- Orientación para adaptar algoritmos al contexto del proyecto y evaluar su correcta aplicación.
+- Resolución de dudas sobre implementación y configuración de tecnologías utilizadas en el proyecto (React, Vite, Node.js, Express, MongoDB y Git).
+- Apoyo en la depuración de errores encontrados durante el desarrollo, incluyendo problemas relacionados con dependencias, configuración de paquetes y manejo del entorno de desarrollo.
+- Revisión de estructura y organización del proyecto, incluyendo recomendaciones para separar frontend y backend.
+- Orientación sobre buenas prácticas de desarrollo, documentación y organización del repositorio.
+- Apoyo en la creación y mejora del archivo README.md, incluyendo estructura de instalación, ejecución y descripción del proyecto.
+- Consulta sobre mejoras potenciales del proyecto, como manejo de variables de entorno, control de versiones y posibles estrategias de despliegue.
 
 
 ---
